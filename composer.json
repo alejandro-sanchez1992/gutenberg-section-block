@@ -1,13 +1,13 @@
 {
-  "name": "marcusig/gutenberg-section-block",
+  "name": "alejandro-sanchez1992/gutenberg-section-block",
   "version": "1.1.5",
   "description": "One of the main elements used for layout in pages, a section / container block is on the roadmap, but I needed one. Now. So Here it is!",
   "keywords": [
     "Blocks Section",
     "Gutenberg Section",
-    "Section",
+    "Section"
   ],
-  "homepage": "https://github.com/marcusig/gutenberg-section-block",
+  "homepage": "https://github.com/alejandro-sanchez1992/gutenberg-section-block",
   "authors": [{
     "name": "marcusig, mklacroix",
     "email": "marcusig@gmail.com",
