@@ -1,0 +1,22 @@
+{
+  "name": "marcusig/gutenberg-section-block",
+  "version": "1.1.5",
+  "description": "One of the main elements used for layout in pages, a section / container block is on the roadmap, but I needed one. Now. So Here it is!",
+  "keywords": [
+    "Blocks Section",
+    "Gutenberg Section",
+    "Section",
+  ],
+  "homepage": "https://github.com/marcusig/gutenberg-section-block",
+  "authors": [{
+    "name": "marcusig, mklacroix",
+    "email": "marcusig@gmail.com",
+    "homepage": "https://mklacroix.com"
+  }],
+  "type": "wordpress-plugin",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0+",
+  "require": {
+    "php": ">=7.4"
+  }
+}
